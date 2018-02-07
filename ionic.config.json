@@ -1,0 +1,8 @@
+{
+  "name": "Anara2",
+  "app_id": "09e0d4fd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
